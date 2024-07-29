@@ -1,0 +1,9 @@
+- Full Dashboard
+- ACL Avançado em dois níveis (profiles x permissions - roles x permissions)
+- QrCode
+- APIs
+- Autenticação de APIs (com o Sanctum)
+- Service Layer
+- Repositories
+- Segurança
+- CI (Continuous Integration - GitHub Actions)
